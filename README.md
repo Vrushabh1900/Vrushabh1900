@@ -17,13 +17,16 @@ I'm a 3rd year ISE Student@RIT
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=hibernate" alt="Hibernate" /></a>
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=aws" alt="AWS" /></a>
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=solidity" alt="Solidity" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=metamask" alt="MetaMask" /></a>
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" /></a>
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git" alt="Git" /></a>
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres" alt="Postgres" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" /></a>
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=redis" alt="Redis" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=c" alt="C" /></a>
 
 </div>
----
+
 
 ### Connect With Me
 
