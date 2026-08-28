@@ -20,6 +20,7 @@ I'm a 3rd year ISE Student@RIT
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" /></a>
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git" alt="Git" /></a>
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" /></a>
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=kafka" alt="Apache Kafka" /></a>
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=redis" alt="Redis" /></a>
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" /></a>
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=c" alt="C" /></a>
