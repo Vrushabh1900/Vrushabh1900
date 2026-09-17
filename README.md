@@ -4,7 +4,7 @@ I'm a 3rd year ISE Student@RIT
 
 - Currently building backend projects with **Spring Boot**, learning new technologies that pique my interest!
 - Practicing **DSA** at times
-- Interested in **Backend Engineering, Microservices & System Design, Machine Learning**
+- Interested in **Backend Engineering, Microservices & System Design, Machine Learning and integrating AI agents into systems.**
 
 ---
 
